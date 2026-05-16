@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 - **Frontend:** [https://full-stack-jet-beta.vercel.app/login]
-- **Backend API:** [full-stack-production-ddf1.up.railway.app]
+- **Backend API:** [https://full-stack-production-ddf1.up.railway.app]
 - **Test Admin:** admin@test.com / Admin@123456
 - **Test Member:** member@test.com / Member@123456
 
